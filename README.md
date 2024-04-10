@@ -29,5 +29,20 @@ The objective of the Phishing Email and Attacks for Email Links & Attacks for Em
 
 This project aims to enhance the organization's resilience against phishing attacks by equipping users with the knowledge and tools necessary to identify and respond to phishing threats effectively.
 
+Please View the screenshot images below for a visual walkthrough of the project steps.
+
+![Screenshot (1)](https://github.com/steventelfer/-Email-Security-Analysis/assets/145903293/d3cb044c-865f-4481-aeab-452fb5be8025)
+![Screenshot (2) (1)](https://github.com/steventelfer/-Email-Security-Analysis/assets/145903293/54a64e80-75f8-4c41-a2d5-99fa6f0a7406)
+![Screenshot (4)_1870x1080 png](https://github.com/steventelfer/-Email-Security-Analysis/assets/145903293/470cbb81-e7f0-4547-91a9-4e59496ffe89)
+![Screenshot (5)_1910x1080 png](https://github.com/steventelfer/-Email-Security-Analysis/assets/145903293/73a58ed3-28bb-4449-affc-578446c6bb0e)
+![Screenshot (6)_1910x1080 png](https://github.com/steventelfer/-Email-Security-Analysis/assets/145903293/802fd7d2-16b8-4186-b072-fb8b1c8cc8c3)
+![Screenshot (7)_1910x1080 png](https://github.com/steventelfer/-Email-Security-Analysis/assets/145903293/aff2d0c2-0471-429e-82ad-12eff082621c)
+![Screenshot (8)_1910x1080 png](https://github.com/steventelfer/-Email-Security-Analysis/assets/145903293/d1b6b222-9d10-4a89-8c07-eda60757588b)
+
+These screenshots provide a visual walkthrough of the project steps, showcasing the setup, examination, and analysis of phishing emails, links, and headers. It highlights the identification of common phishing indicators, validation of email links, and inspection of email headers for signs of manipulation or spoofing. Additionally, it demonstrates the assessment of phishing threats and the determination of appropriate response strategies. Notably, the project reveals findings related to DMARC compliance, including errors in SPF alignment, DKIM alignment, and DKIM authentication. Through this project, the organization aims to enhance email security awareness and mitigate the risks posed by phishing attacks effectively.
+
+
+
+
 
 
